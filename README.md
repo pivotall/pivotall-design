@@ -1,4 +1,4 @@
-# pivotall-design
+# design
 
 #### links
 
